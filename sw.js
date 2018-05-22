@@ -6,9 +6,9 @@ var CACHE_NAME = APP_PREFIX + VERSION
 
 var URLS = [                            // Add URL you want to cache in this list.
 
-  '/{repository}/',                     // If you have separate JS/CSS files,
+  '/',                     // If you have separate JS/CSS files,
 
-  '/{repository}/index.html'            // add path to those files here
+  '/index.html'            // add path to those files here
 
 ]
 
